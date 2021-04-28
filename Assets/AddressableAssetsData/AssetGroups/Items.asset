@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Items
+  m_EditorClassIdentifier: 
+  m_GroupName: Items
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a7a97ce8775419d4cb57b565920d40b2
+  m_SerializeEntries:
+  - m_GUID: f10720d50a2dab94ca08a24bb8c07979
+    m_Address: Assets/4. Item Loot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57b082091559e5643a62efab82547231
+    m_Address: Assets/5. Inventory
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 82f463531f73e88458cb807254c18a5e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7da318125463bb3409ea1ae20c1e9fde, type: 2}
+    - {fileID: 11400000, guid: d808e07482d063c4fbdd90d3ea55152e, type: 2}

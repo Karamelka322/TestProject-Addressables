@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LevelSharedAssets
+  m_EditorClassIdentifier: 
+  m_GroupName: LevelSharedAssets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f81db76143cd99a4f921ed0abf6449fc
+  m_SerializeEntries:
+  - m_GUID: 3ce9e5eabca821646829534dea88ee9d
+    m_Address: Assets/1. Character & NPC Controller/Waypoint
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17620b714e4be974cba12dd37f00c7f9
+    m_Address: Assets/Common/Level
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1ad9ca5d1867ba48841af030e2b3b9f
+    m_Address: Assets/Common/Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dca3f4c676fd1fb42a3f55fb9d6899a8
+    m_Address: Assets/Common/Scenes/Main
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 82f463531f73e88458cb807254c18a5e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4b91259b626dbd044a97fb86efd65f60, type: 2}
+    - {fileID: 11400000, guid: d285d19b63f55f64f930226d0ef07ff8, type: 2}
